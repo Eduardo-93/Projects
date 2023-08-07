@@ -1,0 +1,3 @@
+Lista = es mutable (se puede modificar), es ordenada (se puede o esta ordenada), se puede solicitar un elemento en especifico, se pueden duplicar elementos
+Tuple = Es inmutable (No se puede modificar), es ordenada, se puede buscar los que se necesite, se aceptan elementos repetidos
+Set = Se puede modificar, no es ordenada, no se puede investigar cosas en especifico, no se duplica ningun elemento
